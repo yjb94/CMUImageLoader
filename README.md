@@ -1,5 +1,5 @@
-# CMUImageLoader
-A lightWeight URLLoader, Faster than Alamofire
+# CMUURLLoader
+A lightWeight URL Loader, Faster than Alamofire
 
 it is slightly faster than Alamofire...cuz it's lighter.
 
